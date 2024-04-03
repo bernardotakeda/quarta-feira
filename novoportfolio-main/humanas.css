@@ -1,0 +1,10 @@
+.custom-button{
+    .custom-button {
+        text-decoration: none; /* Remove sublinhado */
+        color: inherit; /* Herda a cor do texto do pai */
+    }
+
+    .custom-button:hover {
+        color: inherit; /* Mantém a cor do texto do pai ao passar o mouse */
+    }
+}
